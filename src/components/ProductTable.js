@@ -47,7 +47,7 @@ const ProductTable = () => {
     setNewProduct(prevProduct => ({ ...prevProduct, [name]: value }));
   };
   return (
-    <div>
+    <div className='top-section'>
       <table id="productTable">
         <thead>
           <tr>

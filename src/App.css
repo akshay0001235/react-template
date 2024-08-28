@@ -1,0 +1,22 @@
+.container{
+  background-color: aquamarine;
+  min-height: 100vh;
+  padding: 10px 10px 0 10px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  color: #000;
+  background: #fff;
+}
+th {
+  background-color: #F4F4F4;
+}
+button{
+  margin-right: 10px;
+}
